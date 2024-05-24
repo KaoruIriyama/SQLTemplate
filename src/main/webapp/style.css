@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.container-fluid {
+  background-image: url(g429.png);
+  background-position: center center;
+  background-repeat: repeat;
+  background-size: cover;
+}
